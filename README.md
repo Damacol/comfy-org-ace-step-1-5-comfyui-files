@@ -1,4 +1,4 @@
-# Comfy-Org/ace_step_1.5_ComfyUI_files - Private, Uncensored AI for Real Creators and Devs
+# Comfy-Org/ace_step_1.5_ComfyUI_files  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
